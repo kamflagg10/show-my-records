@@ -1,0 +1,26 @@
+.card {
+  border-radius: 30px;
+}
+
+.collection-list {
+  background-color: rgba(143, 171, 225, 50%);
+  height: 85vh;
+  margin: 0 10%;
+  overflow: scroll;
+  width: 80%;
+}
+
+.collection-item {
+  background-color: #c4c4c4;
+  border-radius: 15px;
+  height: 230px;
+  overflow: hidden;
+  width: 180px;
+}
+
+@media screen and (max-width: 600px) {
+  .collection-list {
+    margin: 0;
+    width: 100vw;
+  }
+}
