@@ -5,12 +5,14 @@ This is a small web application I created to display my record collection. It ob
 ## Demo
 
 ![](https://github.com/kamflagg10/my-gifs/blob/master/demo-1.gif)
+![](https://github.com/kamflagg10/my-gifs/blob/master/demo-2-mobile.gif)
 
 ## Current Features
 
-When managing your collection on Discogs, users are able to sort their collection into any number of folders.
-Once 'Load Folders' is clicked, server grabs each folder created by the user (as well as the 'All' and 'Uncategorized' folders created by Discogs).
-Then, in a dropdown, the you can pick any folder of your choice to be displayed as a grid below.
+- Display records based on folders created on Discogs.
+
+Once 'Load Folders' is clicked, the server grabs each folder created by the user (as well as the 'All' and 'Uncategorized' folders created by Discogs).
+Then, in a dropdown, the you can pick any folder of your choice to be displayed in a grid below.
 
 ## Future Features (In Progress)
 
