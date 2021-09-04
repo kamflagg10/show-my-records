@@ -6,3 +6,9 @@
   width: 8rem;
   height: 2.5rem;
 }
+
+@media screen and (max-width: 600px) {
+  .load-folders {
+    margin-top: 10px;
+  }
+}

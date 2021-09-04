@@ -19,5 +19,7 @@
 @media screen and (max-width: 600px) {
   .project-name {
     margin: 0;
+    font-size: 2rem;
+    width: 325px;
   }
 }

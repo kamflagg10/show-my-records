@@ -17,12 +17,3 @@ const CollectionItem = (props) => {
 };
 
 export default CollectionItem;
-
-/*
-when song title is too long maybe make it so user can hover over and be shown the full name.
-also probably an argument for having the user click on something so they can see more details?
-
-need to implement the play button. might have to make the entire botton section
-of the card be a div or maybe use flexbox idk. might be able to use a grid and allow the 
-play button to span two cells. 
-*/
